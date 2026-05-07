@@ -45,7 +45,7 @@ To develop an interactive Tic Tac Toe game using C++ that demonstrates game logi
 Save the source code as:
 
 ```bash
-tictactoe.cpp
+main.cpp
 ```
 
 ---
@@ -71,7 +71,7 @@ cd Desktop
 ## Step 4: Compile the Program
 
 ```bash
-g++ tictactoe.cpp -o game
+g++ main.cpp -o game
 ```
 
 ---
